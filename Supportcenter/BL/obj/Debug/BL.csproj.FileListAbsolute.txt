@@ -1,0 +1,44 @@
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.DAL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.DAL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\obj\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-ADO\BL\obj\Debug\SC.BL.pdb
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.dll
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.pdb
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.Domain.dll
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\bin\Debug\SC.DAL.dll
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\bin\Debug\SC.DAL.pdb
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\bin\Debug\SC.BL.Domain.pdb
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\obj\Debug\SC.BL.dll
+D:\KdG\DotNET\TFS_15-16\deel1\Examples\Eg_SupportCenter-ADO\BL\obj\Debug\SC.BL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\SC.BL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\SC.BL.Domain.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\SC.DAL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\EntityFramework.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\SC.DAL.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\SC.BL.Domain.pdb
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\EntityFramework.xml
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\obj\Debug\SC.BL.dll
+C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\BL\obj\Debug\SC.BL.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\SC.BL.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\SC.BL.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\SC.BL.Domain.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\SC.DAL.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\EntityFramework.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\SC.DAL.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\SC.BL.Domain.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\EntityFramework.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\obj\Debug\SC.BL.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\obj\Debug\SC.BL.pdb

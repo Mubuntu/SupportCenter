@@ -1,0 +1,106 @@
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\csc.exe
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\vbc.exe
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.UI.Web.MVC.dll.config
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.UI.Web.MVC.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.UI.Web.MVC.pdb
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\Antlr3.Runtime.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\Newtonsoft.Json.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.BL.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.BL.Domain.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.Helpers.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.Mvc.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.Optimization.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.Razor.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.WebPages.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\WebGrease.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.DAL.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\EntityFramework.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.BL.pdb
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.BL.Domain.pdb
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.Helpers.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.Mvc.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.Optimization.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.Razor.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.WebPages.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\Newtonsoft.Json.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\SC.DAL.pdb
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\EntityFramework.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\obj\Debug\UI-MVC.csprojResolveAssemblyReference.cache
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\obj\Debug\SC.UI.Web.MVC.dll
+C:\Users\keulenak\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-MVC\UI-MVC\obj\Debug\SC.UI.Web.MVC.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\csc.exe
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\vbc.exe
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\VBCSCompiler.exe
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.UI.Web.MVC.dll.config
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.UI.Web.MVC.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.UI.Web.MVC.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\Antlr3.Runtime.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\Newtonsoft.Json.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.BL.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.BL.Domain.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Net.Http.Formatting.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Helpers.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Http.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Http.WebHost.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Mvc.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Optimization.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Razor.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.WebPages.Deployment.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.WebPages.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.WebPages.Razor.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\WebGrease.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.DAL.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\EntityFramework.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\EntityFramework.SqlServer.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.BL.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.BL.Domain.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Net.Http.Formatting.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Http.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Http.WebHost.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Helpers.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Mvc.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Optimization.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.Razor.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.WebPages.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.WebPages.Deployment.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\System.Web.WebPages.Razor.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\Antlr3.Runtime.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\Newtonsoft.Json.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\SC.DAL.pdb
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\EntityFramework.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\bin\EntityFramework.SqlServer.xml
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\obj\Debug\UI-MVC.csprojResolveAssemblyReference.cache
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\obj\Debug\SC.UI.Web.MVC.dll
+D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-MVC\obj\Debug\SC.UI.Web.MVC.pdb

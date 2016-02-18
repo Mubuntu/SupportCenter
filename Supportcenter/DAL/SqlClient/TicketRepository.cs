@@ -14,7 +14,7 @@ namespace SC.DAL.SqlClient
   {
     private SqlConnection GetConnection()
     {
-            //connectionstring
+            //connection
       string connectionString = ConfigurationManager.ConnectionStrings["SupportCenterDB_SqlClient"].ConnectionString;
       return new SqlConnection(connectionString);
     }

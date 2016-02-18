@@ -238,3 +238,11 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+*.pdb
+Supportcenter/DAL/obj/Debug/SC.DAL.pdb
+*.pdb
+*.dll
+Supportcenter/BL/bin/Debug/SC.BL.dll
+*.dll
+Supportcenter/BL/bin/Debug/SC.BL.Domain.pdb
+*.dll

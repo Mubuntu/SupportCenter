@@ -17,3 +17,8 @@ D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCent
 D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\Domain\obj\Debug\SC.BL.Domain.dll
 D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\Domain\obj\Debug\SC.BL.Domain.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\Domain\bin\Debug\SC.BL.Domain.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\Domain\bin\Debug\SC.BL.Domain.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\Domain\obj\Debug\SC.BL.Domain.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\Domain\obj\Debug\SC.BL.Domain.pdb

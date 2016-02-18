@@ -39,3 +39,21 @@ C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\UI-CA
 C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\UI-CA\obj\Debug\SC.UI.CA.exe
 C:\Users\Kenneth\OneDrive\KdG_1516\dotNET-deel1\_DRAFT\Eg_SupportCenter-EF\UI-CA\obj\Debug\SC.UI.CA.pdb
 D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\UI-CA\bin\Debug\SC.UI.CA.exe.config
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.UI.CA.exe.config
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.UI.CA.exe
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.UI.CA.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\Newtonsoft.Json.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.BL.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.BL.Domain.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.DAL.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\EntityFramework.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.BL.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.BL.Domain.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\Newtonsoft.Json.xml
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\SC.DAL.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\EntityFramework.xml
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\obj\Debug\UI-CA.csprojResolveAssemblyReference.cache
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\obj\Debug\SC.UI.CA.exe
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\UI-CA\obj\Debug\SC.UI.CA.pdb

@@ -42,3 +42,16 @@ D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCent
 D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\obj\Debug\SC.BL.dll
 D:\Patrick\documenten\Copy\TI JAAR 2 PDT\.NET Library\.NET DEEL 2\Eg_SupportCenter-WebAPI\BL\obj\Debug\SC.BL.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\SC.BL.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\SC.BL.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\SC.BL.Domain.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\SC.DAL.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\EntityFramework.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\SC.DAL.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\SC.BL.Domain.pdb
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\EntityFramework.xml
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\obj\Debug\SC.BL.dll
+D:\Patrick\documenten\Nhibernatemap\SupportCenter\Supportcenter\BL\obj\Debug\SC.BL.pdb
